@@ -87,7 +87,7 @@ The app will be available at https://ai-trip-planner-blond-psi.vercel.app/.
 ## 💡 How It Works
 User fills travel form — destination, dates, preferences.
 
-AI (OpenAI / custom logic) generates itinerary plan per day.
+AI (Google Gemini) generates itinerary plan per day.
 
 Itinerary stored in Firebase in a map format:
 ```
